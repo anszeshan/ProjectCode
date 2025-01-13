@@ -118,7 +118,7 @@ const App = () => {
   const FeaturedSection = () => (
     <section className="featured-section">
       <div className="section-content">
-        <h2>Why Choose TechStore</h2>
+        <h2>Why Choose StoreAMA</h2>
         <div className="features-grid">
           <div className="feature-card">
             <i className="fas fa-shipping-fast"></i>
@@ -149,8 +149,8 @@ const App = () => {
     <section className="about-section">
       <div className="about-content">
         <div className="about-text">
-          <h2>About TechStore</h2>
-          <p>TechStore is your premier destination for all things tech. Founded in 2020, we've been committed to bringing you the latest and greatest in technology at competitive prices.</p>
+          <h2>About StoreAMA</h2>
+          <p>StoreAMA is your premier destination for all things tech. Founded in 2020, we've been committed to bringing you the latest and greatest in technology at competitive prices.</p>
           <div className="stats-grid">
             <div className="stat-item">
               <span className="stat-number">10K+</span>
@@ -167,7 +167,7 @@ const App = () => {
           </div>
         </div>
         <div className="about-image">
-          <img src="https://shourai.io/wp-content/uploads/2020/07/kindpng_1272110.png" alt="TechStore Office" />
+          <img src="https://shourai.io/wp-content/uploads/2020/07/kindpng_1272110.png" alt="StoreAMA Office" />
         </div>
       </div>
     </section>
@@ -252,7 +252,7 @@ const App = () => {
     <div className="app-container">
       <nav className="navbar">
         <div className="navbar-content">
-          <div className="logo">TechStore</div>
+          <div className="logo">StoreAMA</div>
           <div className="search-box">
             <input
               type="text"
@@ -392,7 +392,7 @@ const App = () => {
         <div className="footer-content">
           <div className="footer-main">
             <div className="footer-brand">
-              <h3>TechStore</h3>
+              <h3>StoreAMA</h3>
               <p>Your tech journey starts here</p>
               <div className="social-links">
                 <a href="#" aria-label="Twitter"><i className="fab fa-twitter"></i></a>
@@ -434,7 +434,7 @@ const App = () => {
         </div>
         
         <div className="footer-bottom" style={{textAlign: 'center'}}>
-          <p>&copy; 2025 TechStore</p>
+          <p>&copy; 2025 StoreAMA</p>
          
         </div>
       </footer>
